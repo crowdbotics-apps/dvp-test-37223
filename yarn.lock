@@ -1246,7 +1246,10 @@
 "@screens/appointment-calendar@file:./screens/appointment-calendar":
   version "1.0.0"
 
-"@screens/chat-listing@file:./screens/chat-listing/":
+"@screens/appointment-listing@file:./screens/appointment-listing/":
+  version "1.0.0"
+
+"@screens/chat-listing@file:./screens/chat-listing":
   version "1.0.0"
 
 "@screens/wallet@file:./screens/create-appointment":
