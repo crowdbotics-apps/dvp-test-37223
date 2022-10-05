@@ -62,6 +62,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [django-push-notifications](backend/modules)
 - [screen-account-settings](screens/account-settings)
 - [screen-appointment-create](screens/create-appointment)
+- [screen-appointment-calendar-view](screens/appointment-calendar)
 
 # Getting started: Frontend
 
