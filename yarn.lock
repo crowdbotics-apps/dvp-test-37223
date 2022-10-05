@@ -1243,7 +1243,10 @@
 "@screens/account-settings@file:./screens/account-settings":
   version "1.0.0"
 
-"@screens/appointment-calendar@file:./screens/appointment-calendar/":
+"@screens/appointment-calendar@file:./screens/appointment-calendar":
+  version "1.0.0"
+
+"@screens/chat-listing@file:./screens/chat-listing/":
   version "1.0.0"
 
 "@screens/wallet@file:./screens/create-appointment":

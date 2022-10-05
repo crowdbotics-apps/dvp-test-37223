@@ -19,6 +19,7 @@
     "@reduxjs/toolkit": "^1.5.0",
     "@screens/account-settings": "file:./screens/account-settings/",
     "@screens/appointment-calendar": "file:./screens/appointment-calendar/",
+    "@screens/chat-listing": "file:./screens/chat-listing/",
     "@screens/wallet": "file:./screens/create-appointment/",
     "axios": "^0.21.1",
     "react": "17.0.1",
