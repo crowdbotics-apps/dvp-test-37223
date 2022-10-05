@@ -61,6 +61,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [react-native-login](modules/login)
 - [django-push-notifications](backend/modules)
 - [screen-account-settings](screens/account-settings)
+- [screen-appointment-create](screens/create-appointment)
 
 # Getting started: Frontend
 
